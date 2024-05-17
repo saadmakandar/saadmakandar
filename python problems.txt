@@ -1,0 +1,23 @@
+WAP to input a string and print the frequency of the characters.
+i/o : aabccy
+o/p : a:2
+      b:1
+      c:2
+      y:1
+
+
+WAP to input a string and print the character with highest occurence.
+I/O : aabbccyyyy
+O/P : y:4
+
+WAP to reverse every word of string in proper manner.
+I/O : this is my book
+O/P : siht si ym koob
+
+how to remove all duplicates from a given string?
+I/O : java
+O/P : jav
+
+WAP to print all permutation of a String
+I/O : "123"
+O/P : "123", "132", "213", "231", "312", "321".
